@@ -1,1 +1,1 @@
-# This is the database for Kayx and Koox Bake Shoppe orders
+# This is the repos for Kayx and Koox Bake Shoppe orders
