@@ -8,29 +8,21 @@ I also want to know if they want a photo on the cake/cookie.
 Please calculates the price of order when entered.
 I need the name of the Customer, branch they ordered from, date of order, amount they bought, how much they cost is per item and how much the whole order was.
 I also want to keep track of the occasion they bought it for.
-
 These are the only options of cakes and cupcakes we make (so far):
-Chocolate Cake
-Vanilla Cake
-Red Velvet Cake
-Coconut Cake
-Chocolate Peanut Butter Cake
-Banana cake - only in Lakewood location, also GF (gluten free)
-Also have Strawberry shortcake, available only as a cake.
-
-Chocolate and Vanilla also come in a gluten free option.
-
-All cookies are sugar cookies and can be gluten free.
-
+Chocolate 
+Vanilla 
+Coconut 
+Chocolate Peanut Butter 
+Banana
+Strawberry shortcake
+Chocolate and Vanilla and Banana come in a gluten free option.
+All cookies have same 6 options of flavors and can be gluten free.
 Toppings:
-Cookies can be royal icing or fondant
-Cakes/cupcakes can be fondant or frosting - chocolate, caramel, strawberry, coconut, peanut butter
-
+Royal icing or fondant or frosting - chocolate, caramel, strawberry, coconut, peanut butter
 All cakes are $50, gluten free is extra $20, strawberry shortcake is extra $5
 All cupcakes are $3, gluten free is extra $1
 All cookies are $3.50, gluten free is extra $1
-Picture adds on $8 for a cake and $1.50 for a cookie. We don't have on cupcakes.
-
+Picture adds on $8 for a cake and $1.50 for a cookie. We don't offer pictures on cupcakes.
 I'll need these reports:
 1) Sum of how many of each type of cake/cupcake/cookie is sold per branch 
         Include the type of product and base but not the frosting or topping , and sum of amount sold all together
@@ -42,24 +34,15 @@ I'll need these reports:
 3) How many gluten free orders per month
 4) How much money came in each month per branch
 5) How many orders came in each month per branch
-
 Question: When is the earliest order?
 Answer: I opened shop January 1, 2021.
-
-Question: Do you ever make exceptions about what you sell?
-Answer: Should not be allowed  to enter specific options for products if we don't sell them.
-
 Question: Do you have a minimum or maxmimum
 Answer: Cookies have minimum order of 24 and maximum order of 500.
         Cupcakes have a minimum of 12 and maximum of 500.
-
 Question: Do you need to know the time it is entered?
 Answer: No need to.
-
-
 Sample data:
 Name, Branch, Date, Type of base, Item, Topping, Picture?, GF, Specifics, Occasion, Amount, (Price per, Order price)
-
 Chaim Green, Lakewood, 01/04/2022, Strawberry shortcake, Cake, (no topping), (no picture), (not gf), Please make sure they both look the same for a kiddush, Baby, 2, ($55, $110)
 Rivky Shapiro, Lakewood, 07/22/2021, Chocolate, Cake, Caramel, no, gf, Write Happy birthday on cake, Birthday, 1
 Leah Gross, Brooklyn, 06/11/2021, Sugar, Cookie, Royal icing, yes, gf, Graduation cap shape of picture I emailed, Graduation, 70
@@ -67,7 +50,7 @@ Baruch Goldberg, Brooklyn, 09/12/2021, Sugar, Cookie, Royal icing, no, no, Shape
 Binyamin Stein, Lakewood, 02/15/2021, Vanilla, Cake, Chocolate, yes, gf, Write Happy 85th birthday on bottom of the attached photo, Birthday, 3
 Batsheva Golden, Lakewood, 08/14/2021, Chocolate peanut butter, Cake, Peanut butter, yes, no, Write Shloimy and the number 3 on pic, Upsherin, 1
 Rena Stern, Brooklyn, 10/11/2021, Sugar, Cookie, Fondant, no, no, Pink background with glitter and shape of balloon with word Sori, Bas mitzvah, 75
-Layala Katz, Lakewood, 09/05/2021, Red velvet, Cupcake, Strawberry, no, no, Make it look nice!, Birthday, 28
+Layala Katz, Lakewood, 09/05/2021, Vanilla, Cupcake, Strawberry, no, no, Make it look nice!, Birthday, 28
 Sara Leah Levy, Brooklyn, 05/18/2021, Vanilla, Cupcake, Coconut, no, no, none, Engagement, 100
 Devorah Friedman, Brooklyn, 07/04/2021, Strawberry shortcake, Cake, no topping, no, no, none, Wedding, 15
 Kaufman, Lakewood, 11/09/2021, Chocolate peanut butter, Cake, Chocolate, no, no, none, Bar mitzvah, 3
@@ -85,3 +68,4 @@ Chaya Kaplan, Lakewood, 01/01/2021, Chocolate, Cupcake, Vanilla, no, gf, Make it
 Sarala Schwartz, Brooklyn, 06/09/2021, Chocolate, Cupcake, Vanilla, no, gf, none, Baby, 50
 Sarah Braunstein, Brooklyn,  10/24/2021, Sugar, Cookie, Royal icing, yes, gf, See attached picture of my sukkah, Family party, 110
 */
+
