@@ -25,6 +25,7 @@ All cookies are $3.50, gluten free is extra $1
 Picture adds on $8 for a cake and $1.50 for a cookie. We don't offer pictures on cupcakes.
 */
 --Name, Branch, Date, Type of base, Item, Topping, Picture?, Specifics, Occasion, Amount, (Price per, Order price)
+--AS: GLUTEN FREE WAS TAKEN OUT OF THE SPEC
 use BakeryDB
 go
 drop table if exists Orders 

@@ -1,4 +1,5 @@
 /*
+AS: GLUTEN FREE OPTION WAS TAKEN OUT OF THE SPEC.
 I recently started a home based baking business, together with my cousin. She works from her home in Lakewood and I work in Brooklyn.
 I sell cakes, cookies, and cupcakes for various events.
 I want to keep a database of all orders.
