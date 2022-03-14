@@ -26,14 +26,12 @@ from orders o
 where month(DateOrdered) in(1,2,3,4,11,12)
 group by o.Branch, o.Occasion
 
---3) not relevant anymore
-
---4)
+--3)
 select o.branch, Month = month(o.dateordered), IncomePerMonth = sum(o.OrderPrice)
 from orders o 
 group by o.branch, month(o.dateordered)
 
---5)
+--4)
 select o.branch, Month = month(o.dateordered), NumberOfOrdersPerMonth = count(*)
 from orders o 
 group by o.branch, month(o.dateordered)
